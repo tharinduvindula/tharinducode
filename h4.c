@@ -52,7 +52,7 @@ int main()
 					}
 			}
 	}
-	if(top>=1)
+	if(top!=-1)
 		flag=0;
 	if(flag==1)
 	printf("parentheses is balence");

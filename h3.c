@@ -19,7 +19,7 @@ int main()
 	
 	for(i=0; i<strlength; i++)
 	{
-		if(formula[i]==('(' || '['||'{')
+		if(formula[i]==('(' || '['||'{'))
 				push(stk[max]);
 			
 		if(formula[i]==(')' || ']' || '}'))
