@@ -60,7 +60,7 @@ int main()
 	printf("parentheses is not balence");
 	return 0;
 }
-
+//hi iiiiiiiiiii
 void push(char c)
 {
 	if(top == (max-1))
