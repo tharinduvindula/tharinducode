@@ -76,3 +76,4 @@ char pop()
 	else 
 		return(stk[top--]);
 }
+//hy tu
