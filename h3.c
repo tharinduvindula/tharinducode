@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #define max 100
+//hh gg ii
 int top=-1;
 int stk[max];
 void push(char);
